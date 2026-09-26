@@ -1,0 +1,8 @@
+{
+  "name": "TrackForge - YouTube Stream & iTunes Music Store Finder",
+  "description": "Search any song to listen to instantly on YouTube, preview audio, and directly open Apple Music or iTunes store pages for easy purchasing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
